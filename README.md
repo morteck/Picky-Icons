@@ -1,4 +1,4 @@
-##  Picky-Icons by Morteck!  ##
+##  Icons  ##
 
 These icons were sourced from various websites. All images are in .png, .ico, and .svg formatting. 
 
